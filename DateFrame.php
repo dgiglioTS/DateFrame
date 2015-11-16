@@ -1,4 +1,4 @@
-<?php
+i<?php
 
 /**
  * DateFrame class to ease generation of MySQL BETWEEN clauses
